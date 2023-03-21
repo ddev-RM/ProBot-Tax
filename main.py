@@ -27,4 +27,4 @@ async def tax(ctx, amount: int):
     )
     return await ctx.send(embed=em)
 
-bot.run("MTA4NzQ1ODM1NDk1MzIxMjA4NA.GCm4J_.DBjf-jsl9mJAH6TBdelvnSXEmRRcilq9ZxbDxg")
+bot.run("your-token-here")
